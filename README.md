@@ -27,4 +27,4 @@ Entidade secundária: atrações ou experiências
 
 <<  COLOQUE A IMAGEM AQUI >>
 
-![alt text](public/resultado1.png)
+![alt text](public/resultado.png)
