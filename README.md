@@ -11,7 +11,9 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 - Nome: izhak Madeira De Sena
 - Matricula: 928361
 - Proposta de projeto escolhida: Guia de lugares para visitar em Minas gerais 
-- Breve descrição sobre seu projeto: Vai ser como uma biblioteca de jogos, onde você poderá inserir sua Lista de jogos, o tempo jogado
+- Breve descrição sobre seu projeto: Vai ser como uma biblioteca de recomendações, onde você escolhe um tipo de atração como gastronomia ou cultura por exemplo, e ele mostra os melhores lugares de Minas Gerais para você buscar essas atrações.
+Entidade principal: Lugar
+Entidade secundária: atrações ou experiências
 
 
 ## Print do(s) wireframe(s) criado
@@ -19,8 +21,10 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 <<  COLOQUE A IMAGEM AQUI >>
 
-
+![alt text](public/modelo.png)
 
 ## Print da home-page criada
 
 <<  COLOQUE A IMAGEM AQUI >>
+
+![alt text](public/resultado.png)
