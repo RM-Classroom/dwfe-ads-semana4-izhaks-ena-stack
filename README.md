@@ -8,10 +8,10 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: izhak Madeira De Sena
+- Matricula: 928361
+- Proposta de projeto escolhida: Guia de lugares para visitar em Minas gerais 
+- Breve descrição sobre seu projeto: Vai ser como uma biblioteca de jogos, onde você poderá inserir sua Lista de jogos, o tempo jogado
 
 
 ## Print do(s) wireframe(s) criado
